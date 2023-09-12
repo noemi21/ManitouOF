@@ -71,12 +71,17 @@ class PublicController extends Controller
         return view('macchina9');
     }
 
+    public function noleggio1() {
+        return view('noleggio1');
+    }
+
     public function contactCreate(Request $request) {
         $name = $request->input('name');
+        $azienda = $request->azienda;
         $email = $request->email;
         $message = $request->message;
 
-        $userData = compact('name' , 'email' , 'message');
+        $userData = compact('azienda','name' , 'email' , 'message');
 
         Mail::to($email)->send(new ContactMail($userData));
 

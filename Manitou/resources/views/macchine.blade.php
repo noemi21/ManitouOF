@@ -138,38 +138,14 @@
                             <h3 class="textRed fw-bold text-start" id="list-item-4"><small>Noleggio</small></h3>
                                 <div class="row">
                                     <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="" style="width: 700px", height="300px">
+                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/noleggio1.jpg" alt="" width="700px" height="300px">
                                     </div>
                                     <div class="col-md-5">
                                         <h3 class="fw-bold textRed text-start">Noleggio 1</h3>
-                                            <p class=" text-start"> Anteprima descrizione 1 ...</p>
-                                                <a class="button-1" href="{{route('macchina3')}}">Scopri il prodotto</a>
+                                            <p class=" text-start"> Hyster 4.00 è un muletto fuoristrada...</p>
+                                                <a class="button-1" href="{{route('noleggio1')}}">Scopri il prodotto</a>
                                     </div>
                                 </div>
-                                <hr>
-                                <div class="row">
-                                    <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="" style="width: 700px", height="300px">
-                                    </div>
-                                    <div class="col-md-5">
-                                        <h3 class="fw-bold textRed text-start">Noleggio 2</h3>
-                                            <p class=" text-start"> Anteprima descrizione 2  ...</p>
-                                            <a class="button-1" href="{{route('macchina7')}}">Scopri il prodotto</a>
-                                        </div>
-                                    </div>
-                                    <hr>
-                                    <div class="row">
-                                        <div class="col-md-7">
-
-                                                <img class="img-fluid rounded mb-3 mb-md-0" src="https://plus.unsplash.com/premium_photo-1683134240084-ba074973f75e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1895&q=80" alt="" style="width: 700px", height="300px">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-5">
-                                            <h3 class="fw-bold textRed text-start">Noleggio 3</h3>
-                                            <p class=" text-start"> Anteprima descrizione 3  ...</p>
-                                            <a class="button-1" href="{{route('macchina5')}}">Scopri il prodotto</a>
-                                        </div>
-                                    </div>
                     </section>
         </div>
         <footer class="text-center text-lg-start bg-light text-muted footer2">

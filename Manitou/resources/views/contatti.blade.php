@@ -17,10 +17,15 @@
                     </div>
                     <form id="contactForm" method="POST" action="{{ route('contact.create') }}">
                       @csrf
+                      <div class="form-floating mb-3">
+                        <input class="form-control" name="azienda" id="azienda" type="text" placeholder="azienda"/>
+                        <label for="azienda">Azienda</label>
+                        <div class="invalid-feedback" >Azienda richiesto.</div>
+                      </div>
                       <!-- Name Input -->
                       <div class="form-floating mb-3">
                         <input class="form-control" name="name" id="name" type="text" placeholder="Name"/>
-                        <label for="name">Name</label>
+                        <label for="name">Nome</label>
                         <div class="invalid-feedback" >Nome richiesto.</div>
                       </div>
                       <!-- Email Input -->
