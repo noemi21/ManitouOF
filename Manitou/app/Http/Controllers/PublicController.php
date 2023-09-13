@@ -71,9 +71,14 @@ class PublicController extends Controller
         return view('macchina9');
     }
 
-    public function noleggio1() {
-        return view('noleggio1');
+    public function usato1() {
+        return view('usato1');
     }
+
+    public function offerta1() {
+        return view('offerta1');
+    }
+
 
     public function contactCreate(Request $request) {
         $name = $request->input('name');

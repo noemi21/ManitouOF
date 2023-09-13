@@ -26,7 +26,8 @@ Route::get ('/home/soluzioni/le-nostre-macchine-m1/MRT-1845-115' , [PublicContro
 Route::get ('/home/soluzioni/le-nostre-macchine-m2/MT-1335-HA-75D-ST5' , [PublicController::class , 'macchina7'])->name('macchina7');
 Route::get ('/home/soluzioni/le-nostre-macchine-m2/ES-112-EASY' , [PublicController::class , 'macchina8'])->name('macchina8');
 Route::get ('/home/soluzioni/le-nostre-macchine-m2/EP-20-EASY' , [PublicController::class , 'macchina9'])->name('macchina9');
-Route::get ('/home/soluzioni/le-nostre-macchine-noleggio/Hyster 4.00' , [PublicController::class , 'noleggio1'])->name('noleggio1');
+Route::get ('/home/soluzioni/le-nostre-macchine-usato/Hyster 4.00' , [PublicController::class , 'usato1'])->name('usato1');
+Route::get ('/home/soluzioni/le-nostre-macchine-usato/EP 16 EASY' , [PublicController::class , 'offerta1'])->name('offerta1');
 Route::get ('/home/soluzioni/i-nostri-servizi' , [PublicController::class , 'servizi'])->name('servizi');
 Route::get ('/home/chi-siamo' , [PublicController::class , 'chiSiamo'])->name('chiSiamo');
 Route::get ('/home/contatti' , [PublicController::class , 'contatti'])->name('contatti');

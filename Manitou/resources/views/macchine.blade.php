@@ -19,7 +19,7 @@
                                 <a class="list-group-item list-group-item-action text-start" href="#list-item-1">Telescopici rotativi</a>
                                 <a class="list-group-item list-group-item-action text-start" href="#list-item-2">Telescopici fissi</a>
                                 <a class="list-group-item list-group-item-action text-start" href="#list-item-3">Magazzinaggio</a>
-                                <a class="list-group-item list-group-item-action text-start" href="#list-item-4">Noleggio</a>
+                                <a class="list-group-item list-group-item-action text-start" href="#list-item-4">Usato</a>
                             </div>
                         </div>
                 </div>
@@ -135,17 +135,29 @@
                                 </div>
                             </div>
                             <div class="separatore"></div>
-                            <h3 class="textRed fw-bold text-start" id="list-item-4"><small>Noleggio</small></h3>
+                            <h3 class="textRed fw-bold text-start" id="list-item-4"><small>Usato</small></h3>
                                 <div class="row">
                                     <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/noleggio1.jpg" alt="" width="700px" height="300px">
+                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/usato1.jpg" alt="" width="700px" height="300px">
                                     </div>
                                     <div class="col-md-5">
-                                        <h3 class="fw-bold textRed text-start">Noleggio 1</h3>
-                                            <p class=" text-start"> Hyster 4.00 è un muletto fuoristrada...</p>
-                                                <a class="button-1" href="{{route('noleggio1')}}">Scopri il prodotto</a>
+                                        <h3 class="fw-bold textRed text-start">Hyster 4.00 </h3>
+                                            <p class=" text-start"> Hyster 4.00 è un muletto fuoristrada ...</p>
+                                                <a class="button-1" href="{{route('usato1')}}">Scopri il prodotto</a>
                                     </div>
                                 </div>
+                                <div class="separatore"></div>
+                                <h3 class="textRed fw-bold text-start" id="list-item-5"><small>Offerte</small></h3>
+                                    <div class="row">
+                                        <div class="col-md-7">
+                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/offerta1.jpg" alt="" width="700px" height="300px">
+                                        </div>
+                                        <div class="col-md-5">
+                                            <h3 class="fw-bold textRed text-start">EP 16 EASY</h3>
+                                                <p class=" text-start"> Sposta facilmente carichi fino a 1600 kg è compatto. Questa attrezzatura vi aiuterà ...</p>
+                                                    <a class="button-1" href="{{route('offerta1')}}">Scopri il prodotto</a>
+                                        </div>
+                                    </div>
                     </section>
         </div>
         <footer class="text-center text-lg-start bg-light text-muted footer2">
