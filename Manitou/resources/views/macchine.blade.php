@@ -16,16 +16,17 @@
                     <div class="row">
                         <div class="col-4">
                             <div id="list-example" class="list-group">
-                                <a class="list-group-item list-group-item-action text-start" href="#list-item-1">Telescopici rotativi</a>
-                                <a class="list-group-item list-group-item-action text-start" href="#list-item-2">Telescopici fissi</a>
-                                <a class="list-group-item list-group-item-action text-start" href="#list-item-3">Magazzinaggio</a>
-                                <a class="list-group-item list-group-item-action text-start" href="#list-item-4">Usato</a>
+                                <a class="list-group-item list-group-item-action text-start" href="#list-item-0">Telescopici rotativi</a>
+                                <a class="list-group-item list-group-item-action text-start" href="#list-item-1">Telescopici fissi</a>
+                                <a class="list-group-item list-group-item-action text-start" href="#list-item-2">Magazzinaggio</a>
+                                <a class="list-group-item list-group-item-action text-start" href="#list-item-3">Usato</a>
+                                <a class="list-group-item list-group-item-action text-start" href="#list-item-4">Offerte</a>
                             </div>
                         </div>
                 </div>
                 <div class="container py-4">
                     <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
-                        <h3 class="textRed fw-bold text-start" id="list-item-1"><small>Telescopici rotativi</small></h3>
+                        <h3 class="textRed fw-bold text-start" id="list-item-0"><small>Telescopici rotativi</small></h3>
                         <div class="row">
                             <div class="col-md-7">
                                 <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img1.png" alt="" style="width: 700px", height="400px">
@@ -59,7 +60,7 @@
                             </div>
                         </div>
                         <div class="separatore"></div>
-                            <h3 class="textRed fw-bold text-start" id="list-item-2"><small>Telescopici fissi</small></h3>
+                            <h3 class="textRed fw-bold text-start" id="list-item-1"><small>Telescopici fissi</small></h3>
                                 <div class="row">
                                     <div class="col-md-7">
                                         <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img3.png" alt="" style="width: 700px", height="400px">
@@ -95,7 +96,7 @@
                                         </div>
                                     </div>
                                     <div class="separatore"></div>
-                                        <h3 class="textRed fw-bold text-start" id="list-item-3"><small>Magazzinaggio</small></h3>
+                                        <h3 class="textRed fw-bold text-start" id="list-item-2"><small>Magazzinaggio</small></h3>
                                             <div class="row">
                                                 <div class="col-md-7">
         
@@ -110,7 +111,6 @@
                                     <hr>
                                     <div class="row">
                                         <div class="col-md-7">
-
                                             <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img8.png" alt="" style="width: 700px", height="400px"></a>
                                         </div>
                                         <div class="col-md-5">
@@ -122,7 +122,6 @@
                                     <hr>
                                     <div class="row">
                                         <div class="col-md-7">
-
                                             <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img9.png" alt="" style="width: 700px", height="400px">
                                             </a>
                                         </div>
@@ -135,10 +134,10 @@
                                 </div>
                             </div>
                             <div class="separatore"></div>
-                            <h3 class="textRed fw-bold text-start" id="list-item-4"><small>Usato</small></h3>
+                            <h3 class="textRed fw-bold text-start" id="list-item-3"><small>Usato</small></h3>
                                 <div class="row">
                                     <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/usato1.jpg" alt="" width="700px" height="300px">
+                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/usato1img.png" alt="" width="700px" height="300px">
                                     </div>
                                     <div class="col-md-5">
                                         <h3 class="fw-bold textRed text-start">Hyster 4.00 </h3>
@@ -147,10 +146,10 @@
                                     </div>
                                 </div>
                                 <div class="separatore"></div>
-                                <h3 class="textRed fw-bold text-start" id="list-item-5"><small>Offerte</small></h3>
+                                <h3 class="textRed fw-bold text-start" id="list-item-4"><small>Offerte</small></h3>
                                     <div class="row">
                                         <div class="col-md-7">
-                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/offerta1.jpg" alt="" width="700px" height="300px">
+                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img1offerte.png" alt="" width="700px" height="300px">
                                         </div>
                                         <div class="col-md-5">
                                             <h3 class="fw-bold textRed text-start">EP 16 EASY</h3>

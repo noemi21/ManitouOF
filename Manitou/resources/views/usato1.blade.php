@@ -4,7 +4,7 @@
             <h1 class="my-4 fw-bold textRed fst-italic">Hyster 4.00</h1>
                 <div class="row">
                     <div class="col-md-8">
-                        <img class="img-fluid" src="/Media/usato1.jpg" alt="" style="width: 700px", height="300px">
+                        <img class="img-fluid" src="/Media/usato1img.png" alt="" style="width: 700px", height="300px">
                     </div>
                     <div class="col-md-4">
                         <h3 class="my-3 fw-bold textRed">Descrizione</h3>
