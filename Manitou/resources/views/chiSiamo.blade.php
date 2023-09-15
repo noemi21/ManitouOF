@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row mt-5">
             <div class="col-sm-6 py-5">
-                <img src="/Media/chiSiamo.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+                <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
             </div>
             <div class="col-sm-6 mb-3 mb-sm-0">
                 <br>

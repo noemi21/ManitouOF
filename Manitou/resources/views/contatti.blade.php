@@ -13,7 +13,7 @@
                   <div class="card-body p-4">
                     <div class="text-center">
                       <div class="h1 fw-light textRed">VUOI MAGGIORI INFORMAZIONI?</div>
-                      <p class="mb-4 text-muted">Hai bisogno di un preventivo, assistenza per i tuoi mezzi, noleggio di mezzi o vuoi vendere un tuo macchinario? Uno dei nostri venditori la contatterà.</p>
+                      <p class="mb-4 text-muted">Hai bisogno di un preventivo, assistenza per i tuoi mezzi o vuoi saperne di piú su macchinari usati? Uno dei nostri venditori la contatterà.</p>
                     </div>
                     <form id="contactForm" method="POST" action="{{ route('contact.create') }}">
                       @csrf

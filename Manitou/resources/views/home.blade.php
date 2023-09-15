@@ -1,39 +1,41 @@
 <x-layout>
     <x-navbar></x-navbar>
-        <header>
-          <div class="container">
-            <div class="row">
-              <div class="col-12 ">
-                <div id="carouselExampleFade" class="carousel slide carousel-fade">
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <video src="" class="videoCaro d-block " height="900" autoplay loop></video>
-                    </div>
-                    <div class="carousel-item">
-                      <img src="/Media/imgCaro.jpg" class="imgCaro d-block" alt="" height="100%" width="100%">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="/Media/imgCaro2.jpg" class="imgCaro d-block" alt="" height="100%" width="100%">
-                    </div>
-                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                  </button>
-                  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                  </button>
-                </div>
-              </div>
-            </div>
+    <header>
+      <div class="overlay"></div>
+      <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="/Media/copertina2.MP4" type="video/mp4">
+      </video>
+      <div class="container h-100">
+        <div class="d-flex h-100 text-center align-items-center">
+          <div class="w-100 text-white">
+            <h1 class="display-3 text-center textRed fw-bold fst-italic">I NOSTRI PUNTI DI FORZA SONO L'ECCELLENZA E LA PROFESSIONALITÀ</h1>
+            <p class="lead mb-0 fw-light  text-center">Scegli tra una gamma di prodotti all'avanguardia e di qualità. <br> Potrai usufruire della possibilià di assistenza per i tuoi macchinari e noleggio.</p>
           </div>
-        </header> 
-        <section>
-            <div class="container1">
-                <h1 class="text-center textRed fw-bold fst-italic" >I NOSTRI PUNTI DI FORZA SONO L'ECCELLENZA E LA PROFESSIONALITÀ</h1>
-                <h2 class="fw-light  text-center"> Scegli tra una gamma di prodotti all'avanguardia e di qualità. <br> Potrai usufruire della possibilià di assistenza per i tuoi macchinari e noleggio.</h2>
-            </div>
-        </section>
+        </div>
+      </div>
+    </header>
+    <div class="container">
+      <div class="row mt-5">
+          <div class="col-sm-6 py-5">
+              <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+          </div>
+          <div class="col-sm-6 mb-3 mb-sm-0">
+              <h1 class="textRed fw-bold fst-italic cS">PROFESSIONALITÀ</h1>
+              <p class="py-3">Il nostro team, ti guiderà nella scelta del prodotto, per offrirti la migliore esperienza di acquisto. <br> De Carolis, ti garantisce la massima professionalità ed efficenza.</p>
+          </div>
+      </div>
+  </div>
+  <div class="container">
+    <div class="row mt-5">
+        <div class="col-sm-6 py-5">
+            <img src="/Media/chiSiamo1.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+        </div>
+        <div class="col-sm-6 mb-3 mb-sm-0">
+            <h1 class="textRed fw-bold fst-italic cS">ECCELLENZA</h1>
+            <p class="py-3">I nostri prodotti sono scelti per garantirti la migliore qualità ed efficenza, <br> così da rendere i tuoi progetti eccellenti, veloci e fluidi.</p>
+        </div>
+    </div>
+</div>
     <x-footer></x-footer>
     
 </x-layout>
