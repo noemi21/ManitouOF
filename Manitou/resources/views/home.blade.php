@@ -1,7 +1,7 @@
 <x-layout>
-    <x-navbar></x-navbar>
-    <header>
-      <div class="overlay"></div>
+  <x-navbar></x-navbar>
+  <header>
+    <div class="overlay"></div>
       <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
         <source src="/Media/copertina2.MP4" type="video/mp4">
       </video>
@@ -13,29 +13,33 @@
           </div>
         </div>
       </div>
-    </header>
-    <div class="container">
+    </div>
+  </header>
+  <div class="container">
+    <div data-aos="fade-right">
       <div class="row mt-5">
-          <div class="col-sm-6 py-5">
-              <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
-          </div>
-          <div class="col-sm-6 mb-3 mb-sm-0">
-              <h1 class="textRed fw-bold fst-italic cS">PROFESSIONALITÀ</h1>
-              <p class="py-3">Il nostro team, ti guiderà nella scelta del prodotto, per offrirti la migliore esperienza di acquisto. <br> De Carolis, ti garantisce la massima professionalità ed efficenza.</p>
-          </div>
+        <div class="col-sm-6 mb-3 mb-sm-0">
+          <h2 class="textRed fw-bold fst-italic cS">PROFESSIONALITÀ</h2>
+          <p class="py-3">Il nostro team, ti guiderà nella scelta del prodotto, per offrirti la migliore esperienza di acquisto. <br> De Carolis, ti garantisce la massima professionalità ed efficenza.</p>
+        </div>
+        <div class="col-sm-6 py-5">
+          <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+        </div>
       </div>
+    </div>
   </div>
   <div class="container">
-    <div class="row mt-5">
+    <div data-aos="fade-left">
+      <div class="row mt-5">
         <div class="col-sm-6 py-5">
-            <img src="/Media/chiSiamo1.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+          <img src="/Media/chiSiamo1.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
         </div>
         <div class="col-sm-6 mb-3 mb-sm-0">
-            <h1 class="textRed fw-bold fst-italic cS">ECCELLENZA</h1>
-            <p class="py-3">I nostri prodotti sono scelti per garantirti la migliore qualità ed efficenza, <br> così da rendere i tuoi progetti eccellenti, veloci e fluidi.</p>
+          <h1 class="textRed fw-bold fst-italic cS">ECCELLENZA</h1>
+          <p class="py-3">I nostri prodotti sono scelti per garantirti la migliore qualità ed efficenza, <br> così da rendere i tuoi progetti eccellenti, veloci e fluidi.</p>
         </div>
+      </div>
     </div>
-</div>
-    <x-footer></x-footer>
-    
+  </div>
+<x-footer></x-footer>
 </x-layout>

@@ -237,6 +237,10 @@ width: 100%;
 
 }
 
+.homeSec {
+    margin-left: 170px;
+}
+
 #btn-back-to-top {
     position: fixed;
     bottom: 20px;
@@ -251,6 +255,7 @@ width: 100%;
         margin-top: 50px;
         
     }
+
 
     .carousel-control-prev-icon{
        align-items: center;
@@ -342,9 +347,9 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
 head
-  header video {
-    display: none;
-  }
-  
+    header video {
+        display: none;
+        }
+
 
 }
