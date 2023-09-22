@@ -23,7 +23,7 @@
           <p class="py-3">Il nostro team, ti guiderà nella scelta del prodotto, per offrirti la migliore esperienza di acquisto. <br> De Carolis, ti garantisce la massima professionalità ed efficenza.</p>
         </div>
         <div class="col-sm-6 py-5">
-          <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+          <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt=" parco macchine azienda dall' alto foto" width="500px" height="300px">
         </div>
       </div>
     </div>
@@ -32,7 +32,7 @@
     <div data-aos="fade-left">
       <div class="row mt-5">
         <div class="col-sm-6 py-5">
-          <img src="/Media/chiSiamo1.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+          <img src="/Media/chiSiamo1.jpg" class=" border-0 rounded-3 chiSiamo" alt="parco macchine azienda" width="500px" height="300px">
         </div>
         <div class="col-sm-6 mb-3 mb-sm-0">
           <h1 class="textRed fw-bold fst-italic cS">ECCELLENZA</h1>

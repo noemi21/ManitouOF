@@ -17,8 +17,8 @@
                   <h6 class="text-uppercase fw-bold mb-4">CONTATTI</h6>
                   <p><i class="fas fa-envelope me-3"></i>manitoudecarolis@gmail.com</p>
                   <p><i class="fas fa-envelope me-3"></i>forcarrelli@gmail.com</p>
-                  <p><i class="fas fa-phone me-3"></i> Mobile +39 392 203 7041</p>
                   <p><i class="fas fa-phone me-3"></i> Mobile +39 393 705 1695</p>
+                  <p><i class="fas fa-phone me-3"></i> Mobile +39 392 203 7041</p>
               </div>
           </div>
       </div>

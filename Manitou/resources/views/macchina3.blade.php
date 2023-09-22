@@ -4,7 +4,7 @@
             <h1 class="my-4 fw-bold textRed fst-italic">MT 625 H</h1>
             <div class="row">
                 <div class="col-md-8">
-                    <img class="img-fluid" src="/Media/img3.png" alt="" style="width: 700px", height="300px">
+                    <img class="img-fluid" src="/Media/img3.png" alt="MT 625 H macchinario telescopico fisso posizione frontale" style="width: 700px", height="300px">
                 </div>
                 <div class="col-md-4">
                     <h3 class="my-3 fw-bold textRed">Descrizione</h3>
@@ -20,10 +20,10 @@
             <h3 class="my-4"></h3>
             <div class="row">
                 <div class="col-md-3 col-sm-6 mb-4">
-                    <img class="img-fluid py-5" src="/Media/1b.png" alt="" style="width: 500px", height="300px">
+                    <img class="img-fluid py-5" src="/Media/1b.png" alt="MT 625 H macchinario telescopico fisso disegno tecnico" style="width: 500px", height="300px">
                 </div>
                 <div class="col-md-3 col-sm-6 mb-4">
-                    <img class="img-fluid" src="/Media/2b.png" alt="" style="width: 500px", height="300px">
+                    <img class="img-fluid" src="/Media/2b.png" alt="MT 625 H macchinario telescopico fisso disegno tecnico" style="width: 500px", height="300px">
                 </div>
             </div>
         </div>

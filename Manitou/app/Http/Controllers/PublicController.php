@@ -80,17 +80,6 @@ class PublicController extends Controller
     }
 
 
-    public function contactCreate(Request $request) {
-        $name = $request->input('name');
-        $azienda = $request->azienda;
-        $email = $request->email;
-        $message = $request->message;
-
-        $userData = compact('azienda','name' , 'email' , 'message');
-
-        Mail::to($email)->send(new ContactMail($userData));
-
-        return redirect(route('contatti'))->with('successMessage' , 'Hai inviato la tua richiesta con successo!');
-    }
+    
 }
 

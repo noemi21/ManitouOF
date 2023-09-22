@@ -29,7 +29,7 @@
                         <h3 class="textRed fw-bold text-start" id="list-item-0"><small>Telescopici rotativi</small></h3>
                         <div class="row">
                             <div class="col-md-7">
-                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img1.png" alt="" style="width: 700px", height="400px">
+                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img1.png" alt="MRT 2660 macchinario telescopico rotativo posizione frontale" style="width: 700px", height="400px">
                             </div>
                             <div class="col-md-5">
                                 <h3 class="fw-bold textRed  text-start">MRT 2660</h3>
@@ -40,7 +40,7 @@
                         <hr>
                         <div class="row">
                             <div class="col-md-7">
-                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img2.png" alt="" style="width: 700px", height="400px">
+                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img2.png" alt="MRT 2545 115 macchinario telescopico rotativo posizione frontale" style="width: 700px", height="400px">
                             </div>
                             <div class="col-md-5">
                                 <h3 class="fw-bold textRed text-start">MRT 2545 115</h3>
@@ -51,7 +51,7 @@
                         <hr>
                         <div class="row">
                             <div class="col-md-7">
-                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img6.png" alt="" style="width: 700px", height="400px">
+                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img6.png" alt="MRT 1845 115 macchinario telescopico rotativo posizione frontale" style="width: 700px", height="400px">
                             </div>
                             <div class="col-md-5">
                                 <h3 class="fw-bold textRed text-start">MRT 1845 115</h3>
@@ -63,7 +63,7 @@
                             <h3 class="textRed fw-bold text-start" id="list-item-1"><small>Telescopici fissi</small></h3>
                                 <div class="row">
                                     <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img3.png" alt="" style="width: 700px", height="400px">
+                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img3.png" alt="MT 625 H macchinario telescopico fisso posizione frontale" style="width: 700px", height="400px">
                                     </div>
                                     <div class="col-md-5">
                                         <h3 class="fw-bold textRed text-start">MT 625 H</h3>
@@ -74,7 +74,7 @@
                                 <hr>
                                 <div class="row">
                                     <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img7.png" alt="" style="width: 700px", height="400px">
+                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img7.png" alt="MT 1335 HA 75D ST5 macchinario telescopico fisso posizione frontale" style="width: 700px", height="400px">
                                     </div>
                                     <div class="col-md-5">
                                         <h3 class="fw-bold textRed text-start">MT 1335 HA 75D ST5</h3>
@@ -86,7 +86,7 @@
                                     <div class="row">
                                         <div class="col-md-7">
 
-                                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img5.png" alt="" style="width: 700px", height="400px">
+                                                <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img5.png" alt="MLT 940-140 V+ macchinario telescopico fisso posizione frontale" style="width: 700px", height="400px">
                                             </a>
                                         </div>
                                         <div class="col-md-5">
@@ -100,7 +100,7 @@
                                             <div class="row">
                                                 <div class="col-md-7">
         
-                                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img4.png" alt="" style="width: 700px", height="400px"></a>
+                                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img4.png" alt="MI 30 D ST5 macchinario magazzinaggio posizione frontale" style="width: 700px", height="400px"></a>
                                                 </div>
                                                 <div class="col-md-5">
                                                 <h3 class="fw-bold textRed text-start">MI 30 D ST5</h3>
@@ -111,7 +111,7 @@
                                     <hr>
                                     <div class="row">
                                         <div class="col-md-7">
-                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img8.png" alt="" style="width: 700px", height="400px"></a>
+                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img8.png" alt="ES 112 EASY macchinario magazzinaggio posizione frontale" style="width: 700px", height="400px"></a>
                                         </div>
                                         <div class="col-md-5">
                                             <h3 class="fw-bold textRed text-start">ES 112 EASY</h3>
@@ -122,7 +122,7 @@
                                     <hr>
                                     <div class="row">
                                         <div class="col-md-7">
-                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img9.png" alt="" style="width: 700px", height="400px">
+                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img9.png" alt="EP 20 EASY macchinario magazzinaggio posizione frontale" style="width: 700px", height="400px">
                                             </a>
                                         </div>
                                         <div class="col-md-5">
@@ -137,7 +137,7 @@
                             <h3 class="textRed fw-bold text-start" id="list-item-3"><small>Usato</small></h3>
                                 <div class="row">
                                     <div class="col-md-7">
-                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/usato1img.png" alt="" width="700px" height="300px">
+                                        <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/usato1img.png" alt="Hyster 4.00 macchinario usato" width="700px" height="300px">
                                     </div>
                                     <div class="col-md-5">
                                         <h3 class="fw-bold textRed text-start">Hyster 4.00 </h3>
@@ -149,7 +149,7 @@
                                 <h3 class="textRed fw-bold text-start" id="list-item-4"><small>Offerte</small></h3>
                                     <div class="row">
                                         <div class="col-md-7">
-                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img1offerte.png" alt="" width="700px" height="300px">
+                                            <img class="img-fluid rounded mb-3 mb-md-0" src="/Media/img1offerte.png" alt="EP 16 EASY macchinario in offerta" width="700px" height="300px">
                                         </div>
                                         <div class="col-md-5">
                                             <h3 class="fw-bold textRed text-start">EP 16 EASY</h3>
@@ -176,8 +176,8 @@
                             <h6 class="text-uppercase fw-bold mb-4">CONTATTI</h6>
                             <p><i class="fas fa-envelope me-3"></i>manitoudecarolis@gmail.com</p>
                             <p><i class="fas fa-envelope me-3"></i>forcarrelli@gmail.com</p>
-                            <p><i class="fas fa-phone me-3"></i> Mobile +39 392 203 7041</p>
                             <p><i class="fas fa-phone me-3"></i> Mobile +39 393 705 1695</p>
+                            <p><i class="fas fa-phone me-3"></i> Mobile +39 392 203 7041</p>
                         </div>
                     </div>
                 </div>

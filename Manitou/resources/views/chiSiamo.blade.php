@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row mt-5">
             <div class="col-sm-6 py-5">
-                <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="" width="500px" height="300px">
+                <img src="/Media/imgCaro.jpg" class=" border-0 rounded-3 chiSiamo" alt="parco macchine esterno" width="500px" height="300px">
             </div>
             <div class="col-sm-6 mb-3 mb-sm-0">
                 <br>
@@ -32,8 +32,8 @@
                         <h6 class="text-uppercase fw-bold mb-4">CONTATTI</h6>
                         <p><i class="fas fa-envelope me-3"></i>manitoudecarolis@gmail.com</p>
                         <p><i class="fas fa-envelope me-3"></i>forcarrelli@gmail.com</p>
-                        <p><i class="fas fa-phone me-3"></i> Mobile +39 392 203 7041</p>
                         <p><i class="fas fa-phone me-3"></i> Mobile +39 393 705 1695</p>
+                        <p><i class="fas fa-phone me-3"></i> Mobile +39 392 203 7041</p>
                     </div>
                 </div>
             </div>
