@@ -1,5 +1,19 @@
 <x-layout>
     <x-navbar></x-navbar>
+    <section>
+      <div class="container px-5 my-4">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <div class="card border-0 rounded-3 shadow-lg">
+              <div class="card-body p-4">
+                <div class="text-center">
+                  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdnO5NfFTdAGmSVbt2yzBwnMfNpRRz9rPW_lW96xZI1CqYHxw/viewform?embedded=true" width="640" height="1445" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>    
     
 
 
